@@ -1,0 +1,11 @@
+.nav{
+    margin-left: 20px;
+}
+
+
+.current{
+    text-decoration: underline;
+}
+.pending{
+    text-decoration: none;
+}
