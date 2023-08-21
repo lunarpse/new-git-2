@@ -12,6 +12,7 @@ import AS from "./components/AS";
 function App() {
   
   return (
+    
     <Appprovider>
     <Router>
       <Navbar/>
